@@ -1,10 +1,7 @@
 # [TweeStat]
-![Result for Donald Trump](https://camo.githubusercontent.com/ccbfc174e5ac3f1b218e709841a992e93b7e5c5a/687474703a2f2f74776565737461742e61752d7379642e6d79626c75656d69782e6e65742f7374617469632f646f6e616c647472756d702e706e67)
+![Result for Iphone 6](https://camo.githubusercontent.com/ccbfc174e5ac3f1b218e709841a992e93b7e5c5a/687474703a2f2f74776565737461742e61752d7379642e6d79626c75656d69782e6e65742f7374617469632f646f6e616c647472756d702e706e67)
 
 An Analytical view of Tweets for deducing public opinion on any trending topic
-
-##Youtube complete project video link
-[![ScreenShot](http://img.youtube.com/vi/uFOC2bvIPYg/0.jpg)](https://youtu.be/uFOC2bvIPYg)
 
 ##Youtube promo video link
 [![ScreenShot](http://img.youtube.com/vi/rTM2HZAULik/0.jpg)](https://youtu.be/rTM2HZAULik)
@@ -17,9 +14,9 @@ An Analytical view of Tweets for deducing public opinion on any trending topic
 
 #What is Tweetstat:
 
-Tweestat originates from the name Tweets Statistics or Stats. This is a web app which aims to provide gov, social researchers, general user and even companies' information on what actually people think about them, their products, public sentiments on controversies or government schemes. Some of the most controversial topics of recent days like odd-even policy in Delhi,Facebook free basics or net-neutrality, President candidate Donald trump. We read news about these topics but we don't know what exactly people think about it. 
-                   This project is actually about that only. Here we extract tweets based on demography, time-durationn, favorite or retweet count. We find similar hashtags trending on the days and then after processing it we apply machine learningg based cognitive solution provided by IBM Watson Alchemy API to dig inside the actual sentiment of the people while writing the tweets. 
-              So, you just have to go to [TweeStat] and enter the topic of your interest. Tweestat will do all the analysis and will give the stats of public opinion on that topic!
+Tweestat originates from the name Tweets Statistics or Stats. This is a web app which aims to provide E commerce companies information on what people think about them, their products and services.
+                   Here we extract tweets based on demography, time-durationn, favorite or retweet count. We find similar hashtags trending on the days and then after processing it we apply IBM Watson Alchemy API to dig inside the actual sentiment of the person writing the tweet. 
+              So, you just have to go to [TweeStat] and enter the product/service of your interest. Tweestat will do all the analysis and will give the stats of public opinion on that query!
             
 [TweeStat]:http://tweestat.au-syd.mybluemix.net/
 #Where does data come from? What is inside the system?
@@ -31,7 +28,7 @@ Basically all kinds of sentences are perfect candidate for analysis by [Alchemy 
 [Alchemy API]:http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/alchemy-language.html
 
 #Why is it unique and who would use it when solved? 
-From a big gov.agency and corporate to a general user or social researcher anyone can use Tweestat for their work. This is the first such kind of attempt in this area which not only focuses on providing cognitive sentiment analysis to corporate but to general public and gov.agencies.
+From big companies to a general user anyone can use Tweestat for their work. This is the first such kind of attempt in this area which not only focuses on providing cognitive sentiment analysis to corporate but to general public as well.
 
 #Privacy: 
 In the whole course of developing Tweestat we have not used profile based research. All the works have been done anonymously. We even don't store profile details with tweets for further development. 
