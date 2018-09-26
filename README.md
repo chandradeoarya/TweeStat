@@ -4,7 +4,7 @@
 An Analytical view of Tweets for deducing public opinion on any trending topic
 
 ##Youtube promo video link
-[![ScreenShot](http://img.youtube.com/vi/udCgWKXNezs/0.jpg)](https://youtu.be/udCgWKXNezs)
+[![ScreenShot](https://i9.ytimg.com/vi/uFOC2bvIPYg/mqdefault.jpg?sqp=CNzPrd0F&rs=AOn4CLCgMyihvwv6DY6cduGtrv5v9eUEag&time=1537960142369)](https://www.youtube.com/watch?v=rTM2HZAULik)
 ## How to Run the app locally
 
 1. Download and extract the code
